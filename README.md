@@ -37,7 +37,7 @@ Full Stack Developer | MERN Stack | Next.js | Generative AI | YouTube Educator
 - 🤖 Currently expanding into **Generative AI and Large Language Models**
 - 🐍 Expanding my skills in **Python and Machine Learning**
 - ☁️ Exploring **AWS Cloud Deployment**
-- 🎥 Also teaching programming and development on **YouTube**
+- 🎥 Also teaching programming and software development on **YouTube**
 - 📚 Creating educational content to help developers **learn, build and grow**
 - 🎓 Pursuing **M.Tech in Computer Science Engineering**
 - 🌱 Always learning, building and experimenting with new technologies
@@ -172,6 +172,19 @@ Full Stack Developer | MERN Stack | Next.js | Generative AI | YouTube Educator
 
 ---
 
+## 🎓 Education
+
+- 🎓 **M.Tech in Computer Science Engineering**  
+  Oriental Institute of Information Science & Technology, Bhopal  
+  *2024 – 2026*
+
+- 🎓 **B.Tech in Computer Science Engineering**  
+  NRI Institute of Information Science & Technology, Bhopal  
+  *2020 – 2024*  
+  *CGPA: 8.22 / 10.0*
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -254,3 +267,8 @@ My channel focuses on helping learners understand programming and development co
 - 🎓 Educational & Learning Platforms
 
 ---
+
+## 🎯 Development Focus
+
+```text
+Learn → Build → Test → Optimize → Deploy → Improve
